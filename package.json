@@ -1,0 +1,19 @@
+{
+  "name": "decs-server",
+  "version": "1.0.0",
+  "description": "DeCS Micro Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "micro"
+  },
+  "keywords": [
+    "decs"
+  ],
+  "author": "Alexandre Junqueira <afjunqueira@gmail.com> (https://alexandrejunqueira.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "iconv-lite": "~0.4.24",
+    "micro": "~9.3.3",
+    "node-fetch": "~2.2.0"
+  }
+}
